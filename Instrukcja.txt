@@ -1,0 +1,4 @@
+Z poziomu swojego IDE (np Intellij):
+- zaimportuj projekt
+- potwierdzić ewentualny komunikat o automatycznym pobraniu repozytoriów wymaganych do kompilacji
+- uruchom 'main' z pliku, który znajduje się w pliku App.java
